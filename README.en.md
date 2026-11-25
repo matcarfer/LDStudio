@@ -2,7 +2,7 @@
 
 <h1 align="center">LD Studio</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/LDStudio/releases/download/v4.2.3/LDStudio-4.2.3.apk">⬇ Download APK</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/LDStudio/releases/download/v4.2.4/LDStudio-4.2.4.apk">⬇ Download APK</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
