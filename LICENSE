@@ -1,0 +1,84 @@
+LD STUDIO — ACUERDO DE LICENCIA DE USUARIO FINAL (PROPIETARIO, CÓDIGO CERRADO)
+
+Copyright (c) 2026 matcarfer. Todos los derechos reservados.
+
+English: ver LICENSE.en
+
+Este software (la aplicación Android LD Studio, su documentación, sus datos de catálogo y
+cualquier archivo que lo acompañe) es propietario y de código cerrado. Se licencia, no se vende.
+Al descargarlo, instalarlo o usarlo aceptás estos términos.
+
+1. LICENCIA DE USO
+   Se te concede una licencia personal, limitada, no exclusiva, no transferible y revocable para
+   instalar y usar el software en dispositivos que sean tuyos o que controles, únicamente para
+   leer y escribir tags NFC de tu propiedad, compatibles con LEGO Dimensions.
+
+2. RESTRICCIONES
+   NO podés, ni en todo ni en parte:
+   a) redistribuir, volver a subir, replicar, publicar, vender, alquilar o sublicenciar el
+      software, ni incluirlo en otros sitios, tiendas, paquetes o firmware. Para compartirlo,
+      pasá el link a la página oficial: https://github.com/matcarfer/LDStudio;
+   b) modificar, adaptar, traducir, descompilar, desensamblar o hacer ingeniería inversa del
+      software, ni crear obras derivadas, salvo que la ley aplicable lo permita expresamente a
+      pesar de esta restricción;
+   c) quitar, ocultar o alterar avisos de copyright, créditos, textos de licencia o enlaces;
+   d) usar el software, su nombre o su marca para promocionar otro producto o dar a entender que
+      el autor lo avala.
+
+2bis. USO LEGAL Y RESPONSABILIDAD DEL USUARIO
+   Sos el único responsable del uso que hagas del software. Usalo solo con tags vírgenes (NTAG213,
+   215 o 216) de tu propiedad y de acuerdo con la ley de tu país. NO podés usarlo para fabricar,
+   vender o distribuir tags, figuras o copias, ni para infringir derechos de terceros. El software
+   no escribe tags originales: los detecta y los trata como solo lectura.
+
+3. CÓDIGO FUENTE
+   El código fuente no es público y no se te licencia. Nada de este acuerdo te da derechos sobre
+   el código fuente, los datos de catálogo ni los scripts de compilación.
+
+4. RIESGO DE ESCRITURA NFC
+   El software escribe memoria persistente de tags NFC. Una escritura incorrecta, un tag de otra
+   tecnología, un corte de energía o una manipulación de las páginas de configuración pueden
+   dejar el tag inutilizable de forma permanente. Usalo únicamente con tags de tu propiedad y
+   aceptás ese riesgo.
+
+5. SIN GARANTÍA
+   EL SOFTWARE SE PROVEE "TAL CUAL" Y "SEGÚN DISPONIBILIDAD", SIN GARANTÍAS DE NINGÚN TIPO,
+   EXPRESAS O IMPLÍCITAS, INCLUYENDO SIN LIMITACIÓN LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD
+   PARA UN FIN PARTICULAR, TITULARIDAD Y NO INFRACCIÓN. EL AUTOR NO GARANTIZA QUE EL SOFTWARE
+   FUNCIONE SIN ERRORES NI QUE SEA COMPATIBLE CON TODOS LOS TELÉFONOS, TAGS O VERSIONES DEL
+   JUEGO.
+
+6. LIMITACIÓN DE RESPONSABILIDAD
+   EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL AUTOR NO ASUME NINGUNA RESPONSABILIDAD, DE NINGÚN
+   TIPO NI POR NINGUNA CAUSA, POR EL SOFTWARE, SU USO, SU MAL USO O LA IMPOSIBILIDAD DE USARLO.
+   ESTO INCLUYE DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES O CONSECUENTES, PÉRDIDA DE
+   DATOS, TAGS, TELÉFONOS O CONSOLAS DAÑADOS, PÉRDIDA DE FIGURAS, DE CUENTAS O DE PROGRESO DEL
+   JUEGO, Y RECLAMOS DE TERCEROS. TODO EL RIESGO ES DEL USUARIO. NADA DE ESTE ACUERDO EXCLUYE UNA
+   RESPONSABILIDAD QUE LA LEY NO PERMITA EXCLUIR.
+
+6bis. INDEMNIDAD
+   En la medida en que la ley lo permita, te hacés cargo de los reclamos, daños y gastos que
+   terceros le reclamen al autor por el uso que vos hagas del software o por incumplir este acuerdo.
+
+7. MARCAS Y AFILIACIÓN
+   "LEGO", "LEGO Dimensions" y sus logotipos son marcas de The LEGO Group. Este proyecto es no
+   oficial, no está afiliado, patrocinado ni respaldado por The LEGO Group ni por Warner Bros.
+   "LEGO Dimensions" se menciona únicamente para indicar compatibilidad.
+   Los nombres de personajes y vehículos se usan con fines descriptivos e informativos.
+
+8. DATOS PERSONALES
+   El software no recopila datos personales ni se conecta a internet (no pide permiso de red).
+   Ver PRIVACY.es.md.
+
+9. TERMINACIÓN
+   La licencia se termina automáticamente si incumplís cualquier cláusula. Al terminar, debés
+   desinstalar y destruir todas las copias.
+
+10. LEY APLICABLE
+    Este acuerdo se rige por las leyes de la República Argentina. Cualquier conflicto se somete a
+    los tribunales ordinarios de la Ciudad Autónoma de Buenos Aires.
+
+11. SIN DONACIONES
+    El software es gratis. El autor no pide ni acepta colaboraciones, donaciones ni pagos por él.
+
+Contacto: https://github.com/matcarfer/LDStudio/issues
