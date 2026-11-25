@@ -21,7 +21,7 @@ Sin internet, sin publicidad y sin cuentas.<br>
 **Nunca escribe en los originales:** los detecta y los trata como solo lectura.
 
 <p align="center">
-  <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a>
+  <a href="https://github.com/matcarfer/biblioteca-gaming">📚 Biblioteca gaming</a>
 </p>
 
 ---

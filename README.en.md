@@ -21,7 +21,7 @@ No internet, no ads and no accounts.<br>
 **Never writes originals:** it detects them and treats them as read-only.
 
 <p align="center">
-  <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a>
+  <a href="https://github.com/matcarfer/biblioteca-gaming/blob/main/README.en.md">📚 Gaming library</a>
 </p>
 
 ---
